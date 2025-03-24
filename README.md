@@ -43,7 +43,6 @@
 ---
 
 
-### 🔥 Streak Counter
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ertuyuksell&theme=default" alt="GitHub Streak"/>
@@ -53,7 +52,6 @@
 
 
 
-### 🐍 Yılan Grafiği 
 
 ![snake gif](https://github.com/ertuyuksell/ertuyuksell/blob/output/github-contribution-grid-snake.svg)
 
