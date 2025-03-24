@@ -33,8 +33,8 @@
 <table>
   <tr>
     <td valign="top">
-      
-      ### 📫 Bana Ulaşın  
+
+      <h3>📫 Bana Ulaşın</h3>
       <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
       </a>
@@ -46,12 +46,11 @@
       <a href="mailto:ertuyuksell@gmail.com">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
       </a>
-    
+
     </td>
-    
     <td valign="top">
-      
-      ### 💬 Günün Yazılımcı Sözü  
+
+      <h3>💬 Günün Yazılımcı Sözü</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
     </td>
