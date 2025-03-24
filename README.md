@@ -57,8 +57,6 @@
 
 ![snake gif](https://github.com/ertuyuksell/ertuyuksell/blob/output/github-contribution-grid-snake.svg)
 
-> 🛠️ Bu animasyonun çalışması için GitHub Actions ile basit bir ayar yapılması gerekir. Kurulum istersen yardım edebilirim.
-
 ---
 
 ### 💬 Günün Yazılımcı Sözü
