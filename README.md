@@ -29,32 +29,29 @@
 
 ---
 
+<div align="center">
 
-<table align="center">
-  <tr>
-    <!-- Bana Ulaşın -->
-    <td align="center" valign="top" width="300">
-      <h3>📫 Bana Ulaşın</h3>
-      <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/ertuyuksell" target="_blank">
-        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
-      </a>
-      &nbsp;
-      <a href="mailto:ertuyuksell@gmail.com">
-        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
-      </a>
-    </td>
+### 📫 Bana Ulaşın &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Günün Yazılımcı Sözü
 
-    <!-- Yazılımcı Sözü -->
-    <td align="center" valign="top" width="500">
-      <h3>💬 Günün Yazılımcı Sözü</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<!-- Sosyal Medya + Quote yan yana -->
+<a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/ertuyuksell" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:ertuyuksell@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+</div>
+
 
 
 ---
