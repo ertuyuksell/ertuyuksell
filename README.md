@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" alt="MsSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="40" alt="ASP.NET MVC"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas"/>
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" alt="Matplotlib"/>
 </p>
 
 ---
@@ -59,7 +63,6 @@
 
 ---
 
-### 💬 Günün Yazılımcı Sözü
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
