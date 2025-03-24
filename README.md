@@ -11,18 +11,18 @@
 ### 🧰 Kullandığım Teknolojiler ve Araçlar
 
 <p align="left">
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
+  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" alt="AI Brain"/>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" alt="Machine Learning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="40" alt="ASP.NET MVC" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" alt="MsSQL" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="40" alt="ASP.NET MVC" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="40" alt="AI Minimal"/>
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
-  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" alt="AI Brain"/>
 
 
 </p>
