@@ -11,9 +11,8 @@
 ### 🧰 Kullandığım Teknolojiler ve Araçlar
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
   <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" alt="AI Brain"/>
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" alt="Machine Learning"/>
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="margin-right: 10px;"/>
@@ -31,21 +30,30 @@
 ---
 
 
-### 📫 Bana Ulaşın
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-<p align="left">
-  <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ertuyuksell" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ertuyuksell@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
-  </a>
-</p>
+  <div>
+    <h3>📫 Bana Ulaşın</h3>
+    <p>
+      <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/ertuyuksell" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
+      </a>
+      &nbsp;
+      <a href="mailto:ertuyuksell@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
+      </a>
+    </p>
+  </div>
+
+  <div>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  </div>
+
+</div>
 
 ---
 
