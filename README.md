@@ -58,6 +58,7 @@
 ![snake gif](https://github.com/ertuyuksell/ertuyuksell/blob/output/github-contribution-grid-snake.svg)
 
 
+
 ---
 
 ### 💬 Günün Yazılımcı Sözü
