@@ -42,13 +42,6 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertuyuksell&show_icons=true&theme=default" alt="Ertuğrul's GitHub stats"/>
-</p>
-
----
 
 ### 🔥 Streak Counter
 
