@@ -30,11 +30,11 @@
 ---
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-  <div>
-    <h3>📫 Bana Ulaşın</h3>
-    <p>
+<table>
+  <tr>
+    <td valign="top">
+      
+      ### 📫 Bana Ulaşın  
       <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
       </a>
@@ -46,14 +46,17 @@
       <a href="mailto:ertuyuksell@gmail.com">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
       </a>
-    </p>
-  </div>
+    
+    </td>
+    
+    <td valign="top">
+      
+      ### 💬 Günün Yazılımcı Sözü  
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-  <div>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,9 +64,5 @@
 
 
 
----
-
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
