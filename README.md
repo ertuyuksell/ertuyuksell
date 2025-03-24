@@ -1,13 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Ertuğrul</h1>
-<h3 align="center">Junior Software Developer | Kod yazmak bir sanattır 🎨</h3>
+<h3 align="center">Junior Software Developer </h3>
 
----
 
-- 🎓 Bandırma Onyedi Eylül Üniversitesi - Yazılım Mühendisliği (3.39/4)
-- 💻 Freelance geliştirici olarak ERP, e-ticaret ve kurtarma sistemleri üzerine projeler geliştirdim
-- 🔍 Backend ve frontend geliştirmeye ilgi duyuyorum, kullanıcı dostu ve responsive yapılar oluşturmaktan keyif alıyorum
-
----
 
 ### 🧰 Kullandığım Teknolojiler ve Araçlar
 
