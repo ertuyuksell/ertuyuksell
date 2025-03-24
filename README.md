@@ -3,6 +3,10 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ertuyuksell&label=Profile%20views&color=0e75b6&style=flat" alt="ertuyuksell" />
+</p>
+
 
 ### 🧰 Kullandığım Teknolojiler ve Araçlar
 
@@ -54,13 +58,7 @@
 
 ---
 
-### 👀 Profil Görüntüleme Sayacı
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ertuyuksell&label=Profile%20views&color=0e75b6&style=flat" alt="ertuyuksell" />
-</p>
-
----
 
 ### 🐍 Yılan Grafiği (Contribution Snake)
 
@@ -74,8 +72,4 @@
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
-> `ertuyuksell/gncyyldz` üstünde bu düzenlemeyi yapabilirsin ya da kendi kullanıcı adını taşıyan yeni bir repo (`ertuyuksell`) açarak doğrudan `README.md` dosyasını buraya yapıştırman yeterli.
-
-İstersen bu dosyayı `.md` formatında direkt indirebileceğin şekilde de verebilirim. Snake animasyonu için GitHub Actions kurulumu da ister misin?
