@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Ertuğrul</h1>
-<h3 align="center">Junior Software Developer | Kod yazmak bir sanattır 🎨</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 ---
 
