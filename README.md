@@ -20,14 +20,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" alt="MsSQL" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" style="margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="40" alt="ASP.NET MVC" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/clouds/100/artificial-intelligence.png" width="40" alt="Artificial Intelligence"/>
   <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="40" alt="AI Minimal"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" width="40" alt="Machine Learning"/>
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
-  <img src="https://img.icons8.com/ios/50/artificial-intelligence.png" width="40" alt="ML Minimal"/>
-  <img src="https://img.icons8.com/ios-filled/50/data-analytics.png" width="40" alt="Analytics"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" width="40" alt="Machine Learning" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Neural_network_icon.svg" width="40" alt="Machine Learning"/>
 
 </p>
 
