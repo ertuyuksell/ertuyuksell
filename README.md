@@ -47,12 +47,12 @@
 ---
 
 
-
+[
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ertuyuksell&theme=default" alt="GitHub Streak"/>
 </p>
 
----
+---](url)
 
 
 
