@@ -1,6 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Ertuğrul</h1>
 <h3 align="center">Junior Software Developer </h3>
 
+---
 
 
 ### 🧰 Kullandığım Teknolojiler ve Araçlar
@@ -18,12 +19,22 @@
 
 
 
-### 📫 Bana Ulaş
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ertugrul-yuksel)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ertuyuksell)
-[![Mail](https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertuyuksell@gmail.com)
-
 ---
+
+### 📫 Bana Ulaşın
+
+<p align="left">
+  <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ertuyuksell" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="30" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ertuyuksell@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" alt="Email"/>
+  </a>
+</p>
 
 
