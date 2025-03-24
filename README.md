@@ -16,15 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
----
 
-### 📌 Öne Çıkan Projeler
-
-- 🛒 **E-Ticaret Platformu** – Ürün tanıtımı ve satışına odaklı, mobil uyumlu, kullanıcı dostu bir arayüzle geliştirildi.
-- 🧠 **ERP Yazılımı** – Finans, İK, stok ve üretim modüllerini içeren kapsamlı ve esnek sistem.
-- 🚘 **Oto Kurtarma Web Sitesi** – Konum tabanlı, gerçek zamanlı dinamik yapı ve yorum sistemi içeriyor.
-
----
 
 ### 📫 Bana Ulaş
 
@@ -34,11 +26,4 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertuyuksell&show_icons=true&theme=default" alt="Ertuğrul's GitHub stats"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertuyuksell&layout=compact&theme=default" alt="Top Langs"/>
-</p>
