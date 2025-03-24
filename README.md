@@ -22,7 +22,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="40" alt="ASP.NET MVC" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="40" alt="AI Minimal"/>
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" alt="Data Analysis"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Neural_network_icon.svg" width="40" alt="Machine Learning"/>
+  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" alt="AI Brain"/>
+
 
 </p>
 
