@@ -30,32 +30,26 @@
 ---
 
 
-<table>
-  <tr>
-    <td valign="top">
+<h3 align="center">📫 Bana Ulaşın &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Günün Yazılımcı Sözü</h3>
 
-      <h3>📫 Bana Ulaşın</h3>
-      <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/ertuyuksell" target="_blank">
-        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
-      </a>
-      &nbsp;
-      <a href="mailto:ertuyuksell@gmail.com">
-        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
-      </a>
+<p align="center">
+  <!-- Sosyal ikonlar -->
+  <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ertuyuksell" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ertuyuksell@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Günün sözü -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
-    </td>
-    <td valign="top">
-
-      <h3>💬 Günün Yazılımcı Sözü</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
