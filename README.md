@@ -34,7 +34,6 @@
   <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://github.com/ertuyuksell" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" alt="GitHub"/>
   </a>
