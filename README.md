@@ -31,7 +31,7 @@
 ### 📫 Bana Ulaşın
 
 <p align="left">
-  <a href="https://linkedin.com/in/ertugrul-yuksel" target="_blank">
+  <a href="https://linkedin.com/in/ertugrulyuksel" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ertuyuksell" target="_blank">
@@ -42,14 +42,5 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
   </a>
 </p>
-
-
----
-
-![snake gif](https://github.com/ertuyuksell/ertuyuksell/blob/output/github-contribution-grid-snake.svg)
-
----
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 
